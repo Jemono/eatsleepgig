@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Viagra Boys",
+    "date": "2026-01-14",
+    "time": "20:00",
+    "venue": "PowerStation",
+    "address": "33 Mount Eden Road, Eden Terrace, Auckland",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "TEst",
+    "date": "test",
+    "time": "test",
+    "venue": "test",
+    "address": "43 Bond Street Marton",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "name": "Test",
+    "date": "test",
+    "time": "test",
+    "venue": "test ",
+    "address": "43 Bond Street Marton New Zealand",
+    "latitude": -40.0621136,
+    "longitude": 175.3743547
+  },
+  {
+    "name": "tes",
+    "date": "t",
+    "time": "t",
+    "venue": "t",
+    "address": "43 Bond Street Marton New Zealand",
+    "latitude": -40.0621136,
+    "longitude": 175.3743547
+  }
+]
