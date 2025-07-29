@@ -1,38 +1,107 @@
 [
   {
-    "name": "Viagra Boys",
-    "date": "2026-01-14",
-    "time": "20:00",
-    "venue": "PowerStation",
-    "address": "33 Mount Eden Road, Eden Terrace, Auckland",
-    "latitude": null,
-    "longitude": null
+    "name": "IDLES",
+    "date": "2025-08-01",
+    "time": "5:00 PM",
+    "venue": "Queen Square",
+    "address": "Queen Square, Bristol, United Kingdom"
   },
   {
-    "name": "TEst",
-    "date": "test",
-    "time": "test",
-    "venue": "test",
-    "address": "43 Bond Street Marton",
-    "latitude": null,
-    "longitude": null
+    "name": "IDLES",
+    "date": "2025-08-02",
+    "time": "2:00 PM",
+    "venue": "Queen Square",
+    "address": "Queen Square, Bristol, United Kingdom"
   },
   {
-    "name": "Test",
-    "date": "test",
-    "time": "test",
-    "venue": "test ",
-    "address": "43 Bond Street Marton New Zealand",
-    "latitude": -40.0621136,
-    "longitude": 175.3743547
+    "name": "IDLES",
+    "date": null,
+    "time": "Time not listed",
+    "venue": "OFFICIAL BLOCK PARTY AFTERSHOW PARTY WITH IDLES DJS",
+    "address": "OFFICIAL BLOCK PARTY AFTERSHOW PARTY WITH IDLES DJS, Bristol, United Kingdom"
   },
   {
-    "name": "tes",
-    "date": "t",
-    "time": "t",
-    "venue": "t",
-    "address": "43 Bond Street Marton New Zealand",
-    "latitude": -40.0621136,
-    "longitude": 175.3743547
+    "name": "IDLES",
+    "date": "2025-08-15",
+    "time": "7:30 PM",
+    "venue": "Steinberggasse",
+    "address": "Steinberggasse, Winterthur, Switzerland"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-08-16",
+    "time": "12:00 PM",
+    "venue": "Pukkelpop 2025",
+    "address": "Pukkelpop 2025, Hasselt, Belgium"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-08-17",
+    "time": "12:00 PM",
+    "venue": "Cabaret Vert",
+    "address": "Cabaret Vert, Charleville-m\u00e9zi\u00e8res, France"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-07",
+    "time": "7:00 PM",
+    "venue": "Fenway Park",
+    "address": "Fenway Park, Boston, MA"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-08",
+    "time": "7:00 PM",
+    "venue": "Bell Centre",
+    "address": "Bell Centre, Montreal, QC"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-10",
+    "time": "7:00 PM",
+    "venue": "Rocket Arena",
+    "address": "Rocket Arena, Cleveland, OH"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-11",
+    "time": "7:00 PM",
+    "venue": "CFG Bank Arena",
+    "address": "CFG Bank Arena, Baltimore, MD"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-13",
+    "time": "7:00 PM",
+    "venue": "Enterprise Center",
+    "address": "Enterprise Center, St Louis, MO"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-15",
+    "time": "7:00 PM",
+    "venue": "Ball Arena",
+    "address": "Ball Arena, Denver, CO"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-17",
+    "time": "7:00 PM",
+    "venue": "T-Mobile Center",
+    "address": "T-Mobile Center, Kansas City, MO"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-19",
+    "time": "4:00 PM",
+    "venue": "Shaky Knees 2025",
+    "address": "Shaky Knees 2025, Atlanta, GA"
+  },
+  {
+    "name": "IDLES",
+    "date": "2025-09-21",
+    "time": "6:05 PM",
+    "venue": "Riot Fest 2025",
+    "address": "Riot Fest 2025, Chicago, IL"
   }
 ]
